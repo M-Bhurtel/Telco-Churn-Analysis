@@ -1,1 +1,2 @@
-*.ipynb linguist-language=SQL
+*.sql linguist-language=SQL
+*.pbix linguist-vendored
